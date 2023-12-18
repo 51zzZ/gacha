@@ -7,7 +7,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
-
+    // 抽卡网址
     private String URL = "https://wishsimulator.app/";
 
     @Override
